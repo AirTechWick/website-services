@@ -1,0 +1,16 @@
+https://docs.google.com/forms/d/e/1FAIpQLSdSUSneTECliEDkTjZSbnI_2kQCLUw1r2zRL9ZRDuaEqINQwg/formResponse
+
+
+
+
+
+
+entry.834781372=name
+
+entry.1364384166=email
+
+entry.678508609=message
+
+
+link to my google form: 
+https://docs.google.com/forms/d/17-lwGTsx8Q8_0ZN9RYKUCl820rZjwkB7--vjcBGNZXs/edit#response=ACYDBNjdmOORuKDk3zMRbDJ_XIHyWf6NEH52Y38lTmaTDbU6zuBSuEJzPARua0P_kixB7JQ
